@@ -3,7 +3,6 @@
 use Illuminate\Database\Seeder;
 use App\Models\User;
 use App\Models\Status;
-use Faker\Factory;
 
 class StatusesTableSeeder extends Seeder
 {
